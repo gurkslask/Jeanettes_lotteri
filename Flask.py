@@ -11,8 +11,8 @@ bootstrap = Bootstrap(app)
 app.config.from_object('config')
 
 resultat_dict = {
-        '123': 'Du har vunnit en bil!',
-        '06242016' : '''Du har vunnit ett presentkort på resor till ett värde av 3000kr ihop med din man
+        '41026180': 'Ingen vinst på denna lotten, men du har vunnit en lott till! Säg detta till närmaste man så fixar han det!',
+        '61026042' : '''Du har vunnit ett presentkort på resor till ett värde av 3000kr ihop med din man
         detta kan användas till tex. en weekend i Göteborg, en spadag eller något annat roligt :)'''
         }
 
